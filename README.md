@@ -11,8 +11,8 @@ This repository contains all of the DSPController related documenttation and sou
 
 ###Demo Projects
 
-- Bare Minimum App
-- Demo App
+- [Bare Minimum App](https://github.com/tiborsimon/DSPController-DemoApp)
+- [Demo App](https://github.com/tiborsimon/DSPController-BareMinimumApp)
 
 ###Sources
 
