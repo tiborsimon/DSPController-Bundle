@@ -16,6 +16,6 @@ This repository contains all of the DSPController related documenttation and sou
 
 ###Sources
 
-- DSPController API source code
-- DSPController Hardware manufacturing materials
-- DSPController Firmware source code
+- [DSPController API](https://github.com/tiborsimon/DSPController-API) source code
+- [DSPController Hardware](https://github.com/tiborsimon/DSPController-Hardware) manufacturing materials
+- [DSPController Firmware](https://github.com/tiborsimon/DSPController-Firmware) source code
