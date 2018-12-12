@@ -1,20 +1,20 @@
-#DSPController-Bundle
+# DSPController-Bundle
 
 This repository contains all of the DSPController related documenttation and source code.
 
 ---
 
-###Documentation
+### Documentation
 
 - DSPController - Full Documentation [in hungarian]
 - DSPController - Quick Start Guide [in hungarian]
 
-###Demo Projects
+### Demo Projects
 
 - [Bare Minimum App](https://github.com/tiborsimon/DSPController-DemoApp)
 - [Demo App](https://github.com/tiborsimon/DSPController-BareMinimumApp)
 
-###Sources
+### Sources
 
 - [DSPController API](https://github.com/tiborsimon/DSPController-API) source code
 - [DSPController Hardware](https://github.com/tiborsimon/DSPController-Hardware) manufacturing materials
